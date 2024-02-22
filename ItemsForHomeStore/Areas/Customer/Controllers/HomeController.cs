@@ -2,7 +2,7 @@ using ItemsForHomeStore.Models;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 
-namespace ItemsForHomeStore.Controllers
+namespace ItemsForHomeStore.Areas.Customer.Controllers
 {
     public class HomeController : Controller
     {
