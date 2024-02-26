@@ -22,4 +22,8 @@
     <ProjectReference Include="..\ItemsForHome.Models\ItemsForHome.Models.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="wwwroot\images\products\" />
+  </ItemGroup>
+
 </Project>
